@@ -1,4 +1,4 @@
-# Sean Kross
+# Jayalakshmi CB
 
 ### Geography
 
