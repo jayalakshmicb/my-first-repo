@@ -1,30 +1,26 @@
-# This is a large heading
+# Jayalakshmi CB
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Chantilly, in the state of Virginia, in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *The book of secrets* by Osho
+- *Ponniyin Selvan* by Kalki
+- *Alchemist* by Paulo Coelho
 
-```
-This is
-a block
-of code
-```
+## restaurants:
+My favourite restaurants in US
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Leius in Greenville.
+2. Hot Thai in Brandon.
+3. Nandoo in Reston..
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### Favourites
+1. Friends
+2. Food
+3. Spirituality
